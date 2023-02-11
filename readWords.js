@@ -12,12 +12,4 @@ function readWords(input) {
 
 }
 
-readWords(["Sofia",
-"Berlin",
-"Moscow",
-"Athens",
-"Madrid",
-"London",
-"Paris",
-"Stop",
-"AfterStop"])
+readWords(["Sofia", "Berlin", "Moscow", "Athens", "Madrid", "London", "Paris", "Stop", "AfterStop"])

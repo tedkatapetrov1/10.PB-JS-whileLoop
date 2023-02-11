@@ -17,8 +17,8 @@ function cashBalance(input) {
     console.log(`Total: ${balance.toFixed(2)}`);
 }
 
-cashBalance(["5.51", 
-"69.42",
-"100",
-"NoMoreMoney"])
+cashBalance(["5.51",
+    "69.42",
+    "100",
+    "NoMoreMoney"])
 

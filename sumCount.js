@@ -10,14 +10,14 @@ function sumCount(input) {
     }
 
     console.log(sum);
-    
+
 }
 
 sumCount(["20",
-"1",
-"2",
-"3",
-"4",
-"5",
-"6"])
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6"])
 

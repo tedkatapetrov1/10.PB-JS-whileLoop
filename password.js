@@ -14,6 +14,6 @@ function password(input) {
 }
 
 password(["Gosho",
-"secret",
-"secret"])
+    "secret",
+    "secret"])
 
