@@ -10,7 +10,7 @@ function graduation(input) {
     while (year <= 12) {
         let currentGrade = Number(input[index]);
         index++;
-        if (currentGrade <= 4) {
+        if (currentGrade < 4) {
             excluded++;
             if (excluded === 2) {
                 expelled = true;
